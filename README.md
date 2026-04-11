@@ -41,12 +41,16 @@ Este exercício foi desenvolvido com o intuito de consolidar os fundamentos de L
 
 * **Estruturas de controle de fluxo (`switch/case`)**: Responsáveis pela seleção das operações no menu e organização do código.
 
-* **Variáveis e Tipos**: Uso de `float` para garantir a precisão decimal nos resultados e `int` para contadores e controle de opções.
+* **Variáveis e Tipos**: Uso de `double` para garantir a precisão decimal nos resultados e `int` para contadores e controle de opções.
 
 ---
 
 ### Demonstração
 <p align="center">
-  [Calculadora bascia via terminal: ](https://github.com/user-attachments/assets/7af4f843-df63-483c-bf5e-2eaf1e4fecd7)
+ Abaixo é possível visualizar o programa em execução, realizando cálculos dinâmicos e navegando pelo menu refatorado:
 
+[Calculadora-Refatorada.webm](https://github.com/user-attachments/assets/e92f91f9-c03e-4ac8-a73c-2f471d49d259)
 </p>
+
+
+
